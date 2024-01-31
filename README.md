@@ -2,7 +2,7 @@
 - Data: 31/01/2024
 - Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso Jornada Base - Lógica
 - O que é: Um código de baixa complexidade de um programa que devolve no console se um número digitado pelo usuário é positivo ou negativo através de uma função.
-- Temas interativos:
+- Temas abordados:
   -  Função com retorno do tipo cadeia;
   -  Estruturas condicionais 'se' e 'senao';
   -  Entrada e saída de dados no console;
