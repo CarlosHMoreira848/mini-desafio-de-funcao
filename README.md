@@ -8,4 +8,5 @@
   -  Entrada e saída de dados no console;
   -  Operadores relacionais;
   -  Atribuição de variáveis;
+  -  Concateção;
   -  Passagem de parâmetros em funções.
